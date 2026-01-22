@@ -1,10 +1,9 @@
-# 📊 Tesla and GameStop Stock & Revenue Data Analysis
+#  Tesla and GameStop Stock & Revenue Data Analysis
 
 This Jupyter Notebook contains Python code to extract historical stock price and revenue data for **Tesla (TSLA)** and **GameStop (GME)**, process the data into pandas DataFrames, and visualize the trends.
 
----
 
-## 🧰 Features
+##  Features
 
 * Extracts stock price data using `yfinance`
 * Scrapes revenue data from online sources 
@@ -15,16 +14,14 @@ This Jupyter Notebook contains Python code to extract historical stock price and
   * Historical share prices
   * Historical revenue trends
 
----
 
-## 📁 Files
+##  Files
 
 * `Final Assignment.ipynb`: Main Jupyter Notebook with all code and plot
 * `README.md`: Documentation for the project
 
----
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python 3.x
 * Jupyter Notebook
@@ -36,18 +33,16 @@ This Jupyter Notebook contains Python code to extract historical stock price and
   * `requests`
   * `BeautifulSoup` (for web scraping)
 
----
 
-## 📈 Output
+##  Output
 
 The notebook generates:
 
 * Charts of Tesla and GameStop stock prices over time
 * Charts of Tesla and GameStop quarterly revenue
 
----
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
@@ -70,16 +65,14 @@ pip install yfinance pandas matplotlib requests beautifulsoup4
 jupyter notebook Final Assignment.ipynb
 ```
 
----
 
-## 📌 Notes
+##  Notes
 
 * Revenue data is scraped from online sources and may change structure; inspect HTML if errors occur.
 * Always handle web scraping responsibly and check the website's terms of use.
 
----
 
-## 📄 License
+##  License
 
 This project primarily contains materials provided by IBM Corporation, along with some of my own additions.
 
@@ -89,11 +82,9 @@ The content is provided for educational purposes only and may not be reused, red
 Please refer to the original source or course terms for additional licensing details.
 
 
----
 
-## 🙋‍♂️ Author
+##  Author
 
 * **Carin**
-  [GitHub](https://github.com/datum-carin)
+  [GitHub](https://github.com/Carinelia)
 
----
